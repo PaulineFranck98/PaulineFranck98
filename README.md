@@ -8,6 +8,7 @@
 <br/>
 <hr/>
 <br/>
+<div style="border: 2px solid #7F3FBF; border-radius: 10px; padding: 10px;">
 <h3 align="center">Langages de programmation et bases de données :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,6 +36,7 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
+</div
 <br/>
 
 
