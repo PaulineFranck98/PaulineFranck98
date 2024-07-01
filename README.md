@@ -52,11 +52,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](homepage-presentation0.gif)
+![](homepage0.gif)
 
-<div style="width: 250px; height: 150px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="homepage-presentation0.gif" alt="Présentation de la page d'accueil" style="object-fit: cover; width: 100%; height: 80%;">
-</div>
 
 
 
