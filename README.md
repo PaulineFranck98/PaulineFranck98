@@ -35,10 +35,7 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
-<hr/>
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinefranck98&show_icons=true&locale=en&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFFFFF&icon_color=A352FA" height="192px" width="49.5%" alt="paulinefranck98" /></p>
 
 
 <!--
@@ -55,4 +52,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploading homepage-presentation0.gif…]()
+![](homepage-presentation0.gif)
+
+<div style="width: 250px; height: 150px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  <img src="homepage-presentation0.gif" alt="Présentation de la page d'accueil" style="object-fit: cover; width: 100%; height: 80%;">
+</div>
+
+
+
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinefranck98&show_icons=true&locale=en&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFFFFF&icon_color=A352FA" height="192px" width="49.5%" alt="paulinefranck98" /></p>
+
