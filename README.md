@@ -1,43 +1,48 @@
-<h1 align="center">Hi 👋, I'm Pauline</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hey👋 <br/> 🌿 Je suis Pauline</h1>
+<h3 align="center">Développeuse enthousiaste, toujours à la recherche de nouvelles connaissances !💻</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+
+<br/>
+
+<br/>
+<div>
+  <h3 align="center">Langages de programmation et bases de données :</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb" />
+    </a>
+  </p>
+  
+  <h3 align="center">Framework et outils :</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=symfony,vscode,github,git,bootstrap,docker" />
+    </a>
+  </p>
+  
+  <h3 align="center">Maquettage et conception :</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,ai,pr" />
+    </a>
+  </p>
+  
+  <h3 align="center">En cours d'apprentissage :</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react" />
+    </a>
+  </p>
+</div>
+<br/>
+<h3>✍️💟 Entrons en contact :</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/pauline-franck-817248138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauline-franck-817248138" height="30" width="40" /></a>
 </p>
 <br/>
-<hr/>
-<br/>
-<div style="border: 2px solid #7F3FBF; border-radius: 10px; padding: 10px;">
-<h3 align="center">Langages de programmation et bases de données :</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb" />
-  </a>
-</p>
 
-<h3 align="center">Framework et outils :</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=symfony,vscode,github,git,bootstrap,docker" />
-  </a>
-</p>
-
-<h3 align="center">Maquettage et conception :</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,pr" />
-  </a>
-</p>
-
-<h3 align="center">En cours d'apprentissage :</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-</p>
-</div
-<br/>
 
 
 <!--
