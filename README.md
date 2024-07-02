@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 
 ![](banner-alsacego.png)
 ![](homepage1.gif)
+![](banner-between.png)
 ![](both-alsace.gif)
 
 
