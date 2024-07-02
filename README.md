@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 <h2 align="center">🌿 Mes derniers projets</h2>
 
 ![](banner-alsacego.png)
+![](both-alsace.gif)
 ![](homepage0.gif)
 
 
