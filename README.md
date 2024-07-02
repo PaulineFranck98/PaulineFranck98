@@ -72,7 +72,9 @@ Here are some ideas to get you started:
 ![](banner-between.png)
 ![](both-alsace.gif)
 
+<br/>
 
+![](banner-cinema.png)
 
 
 
