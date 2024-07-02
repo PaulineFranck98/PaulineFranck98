@@ -45,6 +45,9 @@
 </p>
 <br/>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulinefranck98&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
 
 
 <!--
@@ -67,5 +70,8 @@ Here are some ideas to get you started:
 
 
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinefranck98&show_icons=true&locale=en&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFFFFF&icon_color=A352FA" height="192px" width="49.5%" alt="paulinefranck98" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinefranck98&show_icons=true&locale=en&layout=compact&theme=react&border_color=644188&bg_color=0D1117&title_color=FFFFFF&icon_color=A352FA" height="192px" width="49.5%" alt="paulinefranck98" /></p>-->
+
+
+
 
