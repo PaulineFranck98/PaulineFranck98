@@ -64,6 +64,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">🌿 Mes derniers projets</h2>
+
+![](banner-alsacego.png)
 ![](homepage0.gif)
 
 
