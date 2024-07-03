@@ -101,6 +101,8 @@ Here are some ideas to get you started:
 <br/>
 
 ![](diveindesign-banner.png)
+![](forum-presentation.gif)
+
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinefranck98&show_icons=true&locale=en&layout=compact&theme=react&border_color=644188&bg_color=0D1117&title_color=FFFFFF&icon_color=A352FA" height="192px" width="49.5%" alt="paulinefranck98" /></p>-->
 
 
