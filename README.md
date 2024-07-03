@@ -98,15 +98,15 @@ Here are some ideas to get you started:
 
 <br/>
 
-![](banner-fruit-click.png)
-![](fruit-n-click-ok.gif)
-
-
-<br/>
 
 ![](banner-alsacego.png)
 ![](homepage1.gif)
 ![](both-alsace.gif)
+
+<br/>
+
+![](banner-fruit-click.png)
+![](fruit-n-click-ok.gif)
 
 
 <br/>
