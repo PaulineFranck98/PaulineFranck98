@@ -1,19 +1,10 @@
 
 ![Banner](new-banner-github.png)
-<!--<div>
-  <h1 align="center" >Hey!👋 <br/> je suis Pauline, </h1>
-<h3 align="center">Développeuse enthousiaste, toujours à la recherche de nouvelles connaissances !💻📚</h3>
-</div>
--->
 
-
-<br/>
-<!--<div style="display: flex;  justify-content: space-between; align-items: center; width:100%;"> -->
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <img src="git-left.png" style="width: 50%; margin: 10px;" />
     <img src="git-right.png" style="width: 44%; margin: 10px;" />
 </div>
-
 
 
 <!--<div>
