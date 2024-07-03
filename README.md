@@ -10,7 +10,7 @@
 <br/>
 <!--<div style="display: flex;  justify-content: space-between; align-items: center; width:100%;"> -->
 <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="git-left.png" style="width: 49%; margin: 10px;" />
+    <img src="git-left.png" style="width: 50%; margin: 10px;" />
     <img src="git-right.png" style="width: 44%; margin: 10px;" />
 </div>
 
