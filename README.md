@@ -1,5 +1,5 @@
 
-![Banner](banner-github01.png)
+![Banner](new-banner-github.png)
 <!--<div>
   <h1 align="center" >Hey!👋 <br/> je suis Pauline, </h1>
 <h3 align="center">Développeuse enthousiaste, toujours à la recherche de nouvelles connaissances !💻📚</h3>
