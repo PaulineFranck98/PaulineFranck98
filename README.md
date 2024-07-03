@@ -81,17 +81,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
 
-<h2 align="center">🌿 Mes derniers projets</h2>
+<h2 align="center">🌟 Mes derniers projets</h2>
 
-![](banner-alsacego.png)
-![](homepage1.gif)
-![](both-alsace.gif)
+<br/>
+
+![](diveindesign-banner.png)
+![](forum-presentation.gif)
 
 <br/>
 
 ![](banner-cinema.png)
 ![](mokup-cinema12.gif)
+
+
+<br/>
+
+![](banner-alsacego.png)
+![](homepage1.gif)
+![](both-alsace.gif)
+
+
 
 <br/>
 
@@ -100,8 +111,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-![](diveindesign-banner.png)
-![](forum-presentation.gif)
+
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinefranck98&show_icons=true&locale=en&layout=compact&theme=react&border_color=644188&bg_color=0D1117&title_color=FFFFFF&icon_color=A352FA" height="192px" width="49.5%" alt="paulinefranck98" /></p>-->
 
