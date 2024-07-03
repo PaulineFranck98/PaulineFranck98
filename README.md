@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-![](banner-fruit.png)
+![](banner-fruit-click.png)
 ![](fruit-n-click-ok.gif)
 
 <br/>
