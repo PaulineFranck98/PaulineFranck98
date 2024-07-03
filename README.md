@@ -10,8 +10,8 @@
 <br/>
 <div style="display: flex; flex-wrap:wrap; justify-content: space-between; align-items: center; width:100%;">
   
-<img src="git-left.png" style="height:370px;">
-<img src="git-right.png" style="height:370px;">
+<img src="git-left.png" style="height:360px;">
+<img src="git-right.png" style="height:360px;">
 
 </div>
 <!--<div>
