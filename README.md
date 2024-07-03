@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-<h2 align="center">🌟 Mes derniers projets</h2>
+<h2 align="center">✨ Mes derniers projets</h2>
 
 <br/>
 
