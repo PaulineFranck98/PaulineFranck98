@@ -1,11 +1,26 @@
 
 ![Banner](new-banner-github.png)
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<!--<div style="display: flex; justify-content: space-between; margin-left:40px;">
     <img src="git-left.png" style="width: 50%; margin: 10px;" />
     <img src="git-right.png" style="width: 44%; margin: 10px;" />
-</div>
+</div> -->
 
+<!--| | |
+|---|---|
+|<img src="git-left.png" >|<img src="git-right.png">| -->
+
+
+<table style="border: 1px solid #000000; width: 100%;">
+  <tr style="border: 1px solid #000000;">
+    <td style="border: 1px solid #000000; width: 45%;">
+      <img src="git-left.png" width="100%" style="display: block; margin: auto;" />
+    </td>
+    <td style="border: 1px solid #000000; width: 45%;">
+      <img src="git-right.png" width="100%" style="display: block; margin: auto;" />
+    </td>
+  </tr>
+</table>
 
 <!--<div>
   <h3 align="center">Langages de programmation et bases de données :</h3>
