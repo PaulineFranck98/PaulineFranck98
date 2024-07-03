@@ -8,7 +8,7 @@
 
 
 <br/>
-<div style="display: flex; justify-content: space-between; align-items: center; width:100%;">
+<div style="display: flex; flex-wrap:wrap; justify-content: space-between; align-items: center; width:100%;">
   
 <img src="git-left.png" style="width:50%; height:370px;">
 <img src="git-right.png" style="width:49%; height:370px;">
