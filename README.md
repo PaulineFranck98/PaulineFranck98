@@ -8,12 +8,22 @@
 
 
 <br/>
-<div style="display: flex;  justify-content: space-between; align-items: center; width:100%;">
-  
-<img src="git-left.png" >
-<img src="git-right.png">
-
+<!--<div style="display: flex;  justify-content: space-between; align-items: center; width:100%;"> -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
+    <img src="git-left.png" style="width: 45%; margin: 10px;" />
+    <img src="git-right.png" style="width: 45%; margin: 10px;" />
 </div>
+<style>
+    @media (max-width: 768px) {
+        div {
+            flex-direction: column;
+            align-items: center;
+        }
+        img {
+            width: 90%;
+        }
+    }
+</style>
 <!--<div>
   <h3 align="center">Langages de programmation et bases de données :</h3>
   <p align="center">
