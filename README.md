@@ -8,7 +8,13 @@
 
 
 <br/>
-<div>
+<div style="display: flex; justify-content: space-between; align-items: center; width:100%;">
+  
+<img src="git-left.png" style="width:49%; height:410px;">
+<img src="git-right.png" style="width:49%; height:410px;">
+
+</div>
+<!--<div>
   <h3 align="center">Langages de programmation et bases de données :</h3>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -38,7 +44,7 @@
   </p>
 </div>
 <br/>
-
+-->
 <!-- 
 <h3>✍️💟 Entrons en contact :</h3>
 <p align="left">
