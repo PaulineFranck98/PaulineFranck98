@@ -38,6 +38,8 @@
   </p>
 </div>
 <br/>
+
+<!-- 
 <h3>✍️💟 Entrons en contact :</h3>
 <p align="left">
 
@@ -47,7 +49,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulinefranck98&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
+</div> -->
+
 
 
 <!--
