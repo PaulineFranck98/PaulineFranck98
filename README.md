@@ -94,6 +94,8 @@ Découvrez les détails de mon projet :  [DiveIn Design](https://github.com/Paul
 
 <br/>
 
+Découvrez les détails de mon projet :  [ICinema]([https://github.com/PaulineFranck98/Forum](https://github.com/PaulineFranck98/Cinema_PDO).
+
 ![](banner-cinema.png)
 ![](mokup-cinema12.gif)
 
