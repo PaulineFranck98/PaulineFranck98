@@ -111,6 +111,9 @@ Découvrez les détails de mon projet :  [AlsaceGo](https://github.com/PaulineFr
 
 <br/>
 
+Découvrez les détails de mon projet :  [Fruit'n'Click](https://github.com/PaulineFranck98/Fruit-Basket-APP)
+
+
 ![](banner-fruit-click.png)
 ![](fruit-n-click-ok.gif)
 
