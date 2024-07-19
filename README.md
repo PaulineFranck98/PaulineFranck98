@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 
 <br/>
 Découvrez les détails de mon projet : [DiveIn Design](https://github.com/PaulineFranck98/Forum)
+
 ![](diveindesign-banner.png)
 ![](forum-presentation.gif)
 
