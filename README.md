@@ -102,7 +102,7 @@ Découvrez les détails de mon projet :  [ICinema](https://github.com/PaulineFra
 
 <br/>
 
-Découvrez les détails de mon projet :  [AlsaceGo]([https://github.com/PaulineFranck98/Cinema_PDO](https://github.com/PaulineFranck98/FinalProjectApp))
+Découvrez les détails de mon projet :  [AlsaceGo](https://github.com/PaulineFranck98/FinalProjectApp)
 
 
 ![](banner-alsacego.png)
