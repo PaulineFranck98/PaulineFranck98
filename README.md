@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ![](diveindesign-banner.png)
 ![](forum-presentation.gif)
-
+Découvrez les détails de mon projet : [DiveIn Design](https://github.com/PaulineFranck98/Forum)
 <br/>
 
 ![](banner-cinema.png)
