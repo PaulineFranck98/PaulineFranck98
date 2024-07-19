@@ -86,10 +86,10 @@ Here are some ideas to get you started:
 <h2 align="center">✨ Mes derniers projets</h2>
 
 <br/>
-
+Découvrez les détails de mon projet : [DiveIn Design](https://github.com/PaulineFranck98/Forum)
 ![](diveindesign-banner.png)
 ![](forum-presentation.gif)
-Découvrez les détails de mon projet : [DiveIn Design](https://github.com/PaulineFranck98/Forum)
+
 <br/>
 
 ![](banner-cinema.png)
